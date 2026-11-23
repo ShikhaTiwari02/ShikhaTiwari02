@@ -1,5 +1,7 @@
 ### Hi there, I'm Shikha Tiwari 👋
 
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/shikha-tiwari-b9474920b/)
+
 I'm a **Mobile & Cross-Platform Application Developer** based in Bengaluru with **5.5+ years of experience** designing, building, and scaling high-performance Android, iOS, and Web applications.
 
 - 🔭 **Currently working on:** Architecting *The Panel Station* from scratch at **Borderless Access** using a unified monorepo setup (`React Native`, `Next.js`, `TypeScript`, `Tamagui CSS`, and `Strapi CMS`).
@@ -26,5 +28,5 @@ I'm a **Mobile & Cross-Platform Application Developer** based in Bengaluru with 
 ---
 
 ### 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/shikha-tiwari-b9474920b](https://www.linkedin.com/in/shikha-tiwari-b9474920b/)
 - **Email:** tiwarishikha6477@gmail.com
-- **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
